@@ -20,7 +20,7 @@ import lombok.NoArgsConstructor;
 @Table(name="posts")
 public class Post implements Serializable{
 	/**
-	 * 
+	 * llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 	 */
 	private static final long serialVersionUID = -1457358047095434317L;
 	@Id
